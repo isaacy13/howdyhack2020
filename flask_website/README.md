@@ -20,4 +20,5 @@ to run it, open app.py and chronologically enter:
 when you're done, type in:
 >> deactivate
 
-
+another note: make sure your .html files are inside of the "templates" folder!
+another another note: all static stuff (example: images, .css files, .js files, etc.) should be put in a folder called "static"
