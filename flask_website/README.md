@@ -10,8 +10,11 @@ make sure you have flask installed!
 
 to run it, open app.py and chronologically enter:
 >> py -m venv env
+
 >> env\Scripts\activate
+
 >> $env:FLASK_ENV="development"
+
 >> flask run
 
 when you're done, type in:
